@@ -105,7 +105,6 @@ export const education = [
     location: 'Chattogram, Bangladesh',
     period: '2022–2027',
     status: 'In progress · expected completion 2027',
-    note: 'Expected completion to be confirmed before publication.',
   },
   {
     qualification: 'Higher Secondary Certificate (HSC), Science',
@@ -113,7 +112,6 @@ export const education = [
     location: 'Chattogram, Bangladesh',
     period: null,
     status: 'GPA 5.00',
-    note: 'Graduation year not supplied.',
   },
 ];
 export const projects: Project[] = [
